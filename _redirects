@@ -1,1 +1,1 @@
-/blog/*  https://tetrate.io/blog/  200
+/blog/*  https://tetrate.io/blog/:splat  200
