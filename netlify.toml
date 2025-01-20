@@ -2,3 +2,8 @@
     for = "/*"
     [headers.values]
         X-My-Header = "MINE"
+[[redirects]]
+    from = "/blog/*"
+    to = "https://tetrate.io/blog/"
+    status = 200
+    force = true
